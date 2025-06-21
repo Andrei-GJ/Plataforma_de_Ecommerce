@@ -2,7 +2,7 @@
 
 > [!tip]
 > El objetivo de este proyecto es crear un ecommerce basándose en los siguientes lenguajes/frameworks:
-> - Python
+> - nexts
 
 > [!note]
 > **Objetivos semana 1**
